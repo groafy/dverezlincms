@@ -3,3 +3,5 @@
 [Back home](/)
 
 ::hero-section
+the content
+::
